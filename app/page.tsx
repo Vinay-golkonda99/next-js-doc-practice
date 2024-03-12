@@ -18,9 +18,14 @@ const HomePage = () => {
         <h1 className="text-4xl mb-8">Hi, Welcome to my website</h1>
         <p className="text-lg">This is my Home Page.</p>
       </div>
+      {/* Footer */}
+      <footer className="text-center py-4 bg-gray-200">
+        <p className="text-sm">© 2024 Your Website. All rights reserved.</p>
+      </footer>
     </main>
   );
 };
+
 
 export default HomePage;
 
