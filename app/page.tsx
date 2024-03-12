@@ -24,9 +24,6 @@ const HomePage = () => {
 
 export default HomePage;
 
-// pages/index.tsx or pages/Page.tsx
-import Link from 'next/link';
-
 const Page = () => {
   return (
     <div>
