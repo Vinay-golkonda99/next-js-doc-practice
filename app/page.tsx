@@ -24,9 +24,6 @@ const HomePage = () => {
 
 export default HomePage;
 
-// pages/Page.tsx or pages/index.tsx
-import Link from 'next/link';
-
 const Page = () => {
   return (
     <div>
@@ -36,7 +33,6 @@ const Page = () => {
         <ul>
           <li>
             <Link href="/about">
-              <a>About Me</a>
             </Link>
           </li>
         </ul>
@@ -44,7 +40,5 @@ const Page = () => {
     </div>
   );
 };
-
-export default Page;
 
 
