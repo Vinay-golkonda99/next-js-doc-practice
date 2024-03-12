@@ -22,8 +22,7 @@ const HomePage = () => {
       </main>
       {/* Footer */}
       <footer className="text-bottom py-4 bg-black-200">
-        <p className="text-sm">© 2024 Your Website. All rights reserved.
-        Vinay.com</p>
+        <p className="text-sm">© 2024 Your Website. All rights reserved.Vinay.com</p>
       </footer>
     </div>
   );
@@ -31,21 +30,5 @@ const HomePage = () => {
 
 export default HomePage;
 
-const Page = () => {
-  return (
-    <div>
-      <h1>Landing Page</h1>
-      <p>This is the landing page content.</p>
-      <nav>
-        <ul>
-          <li>
-            <Link href="/about">
-            </Link>
-          </li>
-        </ul>
-      </nav>
-    </div>
-  );
-};
 
 
