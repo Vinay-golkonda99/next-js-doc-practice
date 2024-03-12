@@ -22,7 +22,8 @@ const HomePage = () => {
       </main>
       {/* Footer */}
       <footer className="text-bottom py-4 bg-black-200">
-        <p className="text-sm">© 2024 Your Website. All rights reserved.</p>
+        <p className="text-sm">© 2024 Your Website. All rights reserved.
+        Vinay.com</p>
       </footer>
     </div>
   );
