@@ -30,10 +30,6 @@ const HomePage = () => {
 
 export default HomePage;
 
-
-
-export default HomePage;
-
 const Page = () => {
   return (
     <div>
