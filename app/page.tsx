@@ -24,4 +24,27 @@ const HomePage = () => {
 
 export default HomePage;
 
+// pages/Page.tsx or pages/index.tsx
+import Link from 'next/link';
+
+const Page = () => {
+  return (
+    <div>
+      <h1>Landing Page</h1>
+      <p>This is the landing page content.</p>
+      <nav>
+        <ul>
+          <li>
+            <Link href="/about">
+              <a>About Me</a>
+            </Link>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  );
+};
+
+export default Page;
+
 
