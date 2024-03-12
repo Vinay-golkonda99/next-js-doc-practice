@@ -16,7 +16,7 @@ const HomePage = () => {
       </nav>
       <div className="flex flex-col items-center justify-center w-full">
         <h1 className="text-4xl mb-8">Hi, Welcome to my website</h1>
-        <p className="text-lg">This is the landing page content.</p>
+        <p className="text-lg">This is my Home Page.</p>
       </div>
     </main>
   );
