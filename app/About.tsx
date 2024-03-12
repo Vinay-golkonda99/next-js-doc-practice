@@ -1,4 +1,3 @@
-// pages/About.tsx
 const About = () => {
   return (
     <div>
