@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import About from './About';
+import About from './app';
 
 const HomePage = () => {
   return (
