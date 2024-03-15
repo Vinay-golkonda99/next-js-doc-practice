@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 
-const HomePage = () => {
+export default function Page() {
   return (
     <div className="flex flex-col min-h-screen">
       <main className="flex-grow">
@@ -29,7 +29,7 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
+export default Page;
 
 
 
