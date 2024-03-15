@@ -1,4 +1,4 @@
 export default function Page() {
-  return <a>This is Vinay</a>;
+  return <h1>This is Contact Page</h1>;
   
 }
