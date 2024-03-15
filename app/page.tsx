@@ -12,7 +12,7 @@ const Page = () => {
           <Link href="/About">
             <a>About</a>
           </Link>
-          <Link href="/contact">
+          <Link href="/Contact">
             <a className="my-2">Contact</a>
           </Link>
         </nav>
