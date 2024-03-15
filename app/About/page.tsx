@@ -1,4 +1,4 @@
 export default function Page() {
-  return <h1>This is About Page</h1>;
+  return <a>This is About Page</a>;
   
 }
