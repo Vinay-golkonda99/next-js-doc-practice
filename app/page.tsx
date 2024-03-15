@@ -10,7 +10,7 @@ const HomePage = () => {
             <a className="my-2">Home</a>
           </Link>
           <Link href="/about">
-            <a className="my-2">About</a>
+            <a>About</a>
           </Link>
           <Link href="/contact">
             <a className="my-2">Contact</a>
