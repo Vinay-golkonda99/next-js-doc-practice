@@ -1,3 +1,4 @@
 export default function Page() {
-  return <a>My contact page here consists  My email </a>;
+  return <a>This is Vinay</a>;
+  
 }
