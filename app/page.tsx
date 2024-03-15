@@ -9,7 +9,7 @@ export default function Page() {
           <Link href="/">
             <a className="my-2">Home</a>
           </Link>
-          <Link href="/about">
+          <Link href="/About">
             <a>About</a>
           </Link>
           <Link href="/contact">
